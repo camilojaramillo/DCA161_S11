@@ -1,4 +1,12 @@
+import processing.core.PApplet;
 
-public class Ejecutable {
-
+public class Ejecutable extends PApplet {
+	
+	public void setup(){
+		
+	}
+			
+	public void draw(){
+		
+	}
 }
